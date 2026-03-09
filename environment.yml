@@ -1,4 +1,4 @@
-name: spatial-regression
+name: Regression
 channels:
   - conda-forge
   - defaults
@@ -20,3 +20,4 @@ dependencies:
   - jupyter
   - ipykernel
   - watermark
+
