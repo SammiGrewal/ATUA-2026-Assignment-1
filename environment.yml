@@ -1,9 +1,9 @@
-name: Regression
+name: Regressions
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.14
+  - python=3.12
   - pandas
   - numpy
   - geopandas
